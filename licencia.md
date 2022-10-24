@@ -1,1 +1,1 @@
-![image](licencia.png)
+![image](licencia.PNG)
