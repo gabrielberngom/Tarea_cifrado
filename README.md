@@ -1,5 +1,5 @@
 # Cifrado
-## Introduccion.md
-## Contenido.md
-## Referencias.md
-## Licencia.md
+## Introduccion
+## Contenido
+## Referencias
+## Licencia
