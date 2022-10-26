@@ -1,1 +1,3 @@
-
+# La Criptografia
+La Historia de la criptografia se remonta a la antigua grecia, donde nacio la palabra "Cripto" que significa ocultar, mientras que grafia significa escritura.
+Desde aquella epoca, el objetivo de la criptografia era enviar mensajes en secreto, evitando que pudiesen ser leidos por cualquier otra persona que no fuese el receptor deseado. No fue hasta la edad media que surgio el criptoanálisis, y con ello, la necesidad de acomplejar los criptogramas. Esto llevo a que cada vez se creasen metodos de criptografia mas complejos mientras que el criptoanalisis evolucionaba para descubrir los ssecretos de sus mensaje. Esta tecnologia fue usada a lo largo de la historia en muchos de los eventos mas importantes de la hsitoria, como la segunda guerra mundial
